@@ -1,0 +1,16 @@
+{
+  "name": "my.projects",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AndersonAndrad/my.projects.git",
+  "author": "AndersonAndrad <Anderson_Andrade_@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3",
+    "sucrase": "^3.13.0"
+  }
+}
